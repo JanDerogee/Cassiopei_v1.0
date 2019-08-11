@@ -1,0 +1,1 @@
+copy this file ont the Cassiopei before executing the sample player demo

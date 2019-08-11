@@ -1,0 +1,1 @@
+converteer een image file op de PC naar een koala file voor de C64 m.b.v. "project1" (a.k.a. P1)
