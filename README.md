@@ -1,4 +1,4 @@
-# Cassiopei-v1.0
+# Cassiopei v1.0
 Cassiopei v1.0 is the Cassiopei project it all started with.
 
 The cassiopei v1.0 has been superseeded by the Cassiopei v2.0.
